@@ -1,6 +1,6 @@
 package com.linkedout.userservice.dto;
 
-import com.linkedout.userservice.entity.UserRole;
+import com.linkedout.userservice.enums.UserRole;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -17,7 +17,6 @@ import java.util.UUID;
 public class UserDTO {
 
     private UUID id;
-
     private String email;
     private String firstName;
     private String lastName;

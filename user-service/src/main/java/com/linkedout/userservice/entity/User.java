@@ -1,5 +1,6 @@
 package com.linkedout.userservice.entity;
 
+import com.linkedout.userservice.enums.UserRole;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

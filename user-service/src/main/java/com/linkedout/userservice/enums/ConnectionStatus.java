@@ -1,4 +1,4 @@
-package com.linkedout.userservice.entity;
+package com.linkedout.userservice.enums;
 
 public enum ConnectionStatus {
     PENDING,

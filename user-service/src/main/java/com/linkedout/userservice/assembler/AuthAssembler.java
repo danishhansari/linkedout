@@ -2,7 +2,7 @@ package com.linkedout.userservice.assembler;
 
 import com.linkedout.userservice.dto.AuthDTO;
 import com.linkedout.userservice.entity.User;
-import com.linkedout.userservice.entity.UserRole;
+import com.linkedout.userservice.enums.UserRole;
 import com.linkedout.userservice.pojo.RegisterPojo;
 import org.springframework.stereotype.Component;
 
